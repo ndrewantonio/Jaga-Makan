@@ -137,7 +137,7 @@ class _AboutPageState extends State<AboutPage> {
                             ],
                           ),
                           Constants.singleSpace,
-                          Text('Pre-trained Model: EfficienNet-B0',
+                          Text('Pre-trained Model: MobileNet v2',
                               style: Fonts.h1Light),
                           Constants.singleSpace,
 
