@@ -64,8 +64,8 @@ class _ClassificationState extends State<Classification> {
         path: file.path,
         numResults: 2,
         threshold: 0.1,
-        imageMean: 0.0,
-        imageStd: 1.5,
+        imageMean: 127.5,
+        imageStd: 127.5,
         asynch: true
 
         //Effnet
